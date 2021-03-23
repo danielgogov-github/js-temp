@@ -1,5 +1,6 @@
-.countdown {
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
+.container {
+    width: 900px;
+    margin: 0 auto;
+    /* Delete */
+    border: 1px solid red;
 }
